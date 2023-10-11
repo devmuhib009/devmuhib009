@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhibul Hque</h1>
+<h1 align="center">Hi 👋, I'm Muhibul Haque</h1>
 <h3 align="center">A highly skilled full-stack developer based in Bangladesh, proficient in front-end and back-end technologies, driving web projects with expertise and creativity.</h3>
 <br>
 <br>
