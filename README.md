@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhibul Hque</h1>
 <h3 align="center">A highly skilled full-stack developer based in Bangladesh, proficient in front-end and back-end technologies, driving web projects with expertise and creativity.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmuhib009&label=Profile%20views&color=0e75b6&style=flat" alt="devmuhib009" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmuhib009" alt="devmuhib009" /></a> </p>
 
