@@ -29,7 +29,7 @@
 <p align="center">
 <a href="https://twitter.com/muhib_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhib_k" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhibul-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhibul-haque" height="30" width="40" /></a>
-<a href="https://fb.com/muhib.ullah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhib.ullah1" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MuhibWP/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhib.ullah1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wppathfinder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wppathfinder" height="30" width="40" /></a>
 </p>
 <br>
