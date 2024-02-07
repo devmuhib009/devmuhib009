@@ -37,6 +37,7 @@
 - [Real Star Properties](http://realstarpl.com/)
 - [Multi Freight](https://multifreight.net/)
 - [Swift Freight](https://swift-freight.com/)
+- [India Palace NYC](https://indiapalacenyc.com/)
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
