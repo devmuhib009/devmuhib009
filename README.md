@@ -30,9 +30,10 @@
 
 - [Uttara Restaurant](https://uttararestaurant.com/)
 
-- [WordPress Block Theme](https://github.com/WordPress/twentytwentyfour)
+- [Pizza Kurier](https://pizzakurier24.de/)
 
 - [Kishoreganj Guide](https://kishoreganjguide.com/)
+- [Bot Tola Cyber Net](https://btcnbd.com/)
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
