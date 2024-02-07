@@ -38,6 +38,8 @@
 - [Multi Freight](https://multifreight.net/)
 - [Swift Freight](https://swift-freight.com/)
 - [India Palace NYC](https://indiapalacenyc.com/)
+- [kishoreganj Guide](https://kishoreganjguide.com/)
+- [Islam Engineering Firm](https://islamengfirm.com/)
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
