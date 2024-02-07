@@ -35,6 +35,8 @@
 - [Kishoreganj Guide](https://kishoreganjguide.com/)
 - [Bot Tola Cyber Net](https://btcnbd.com/)
 - [Real Star Properties](http://realstarpl.com/)
+- [Multi Freight](https://multifreight.net/)
+- [Swift Freight](https://swift-freight.com/)
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
