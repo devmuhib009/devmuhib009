@@ -42,6 +42,7 @@
 - [Islam Engineering Firm](https://islamengfirm.com/)
 - [Tecognize Solutions Ltd.](https://tecognize.com/)
 - [Linux Pathshala](http://linuxpathshala.com/)
+- [Techno Sync Pro](https://technosyncpro.com/)
 <br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
