@@ -27,8 +27,10 @@
 - ⚡ Fun fact **Jack of all trades! SEO, Article Writing, Affiliate Marketing, Video Editing and Graphic Design.**
 <br><br>
 <h3 align="left">WordPress Core Contribution:</h3>
-- [Training Team Faculty Program](https://make.wordpress.org/training/handbook/faculty-program/)
 
+- [Training Team Faculty Program](https://make.wordpress.org/training/handbook/faculty-program/)
+- [Training Team Guide Program](https://make.wordpress.org/training/handbook/guide-program/#current-guides)
+- [WordPress Mentorship Cohort Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 <br><br>
 <h3 align="left">My Works:</h3>
 
