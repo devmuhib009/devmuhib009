@@ -26,6 +26,10 @@
 
 - ⚡ Fun fact **Jack of all trades! SEO, Article Writing, Affiliate Marketing, Video Editing and Graphic Design.**
 <br><br>
+<h3 align="left">WordPress Core Contribution:</h3>
+- [Training Team Faculty Program](https://make.wordpress.org/training/handbook/faculty-program/)
+
+<br><br>
 <h3 align="left">My Works:</h3>
 
 - [Uttara Restaurant](https://uttararestaurant.com/)
