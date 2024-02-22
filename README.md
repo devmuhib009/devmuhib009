@@ -44,7 +44,7 @@
 - [Multi Freight](https://multifreight.net/)
 - [Swift Freight](https://swift-freight.com/)
 - [India Palace NYC](https://indiapalacenyc.com/)
-- [kishoreganj Guide](https://kishoreganjguide.com/)
+- [Daily Prottoy](https://www.dailyprottoy.com/)
 - [Islam Engineering Firm](https://islamengfirm.com/)
 - [Tecognize Solutions Ltd.](https://tecognize.com/)
 - [Linux Pathshala](http://linuxpathshala.com/)
