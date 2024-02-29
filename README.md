@@ -32,6 +32,10 @@
 - [Training Team Guide Program](https://make.wordpress.org/training/handbook/guide-program/#current-guides)
 - [WordPress Mentorship Cohort Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 <br><br>
+<h3 align="left">My Contributions on WordPress:</h3>
+
+- [Test Team Meeting Recap Post](https://make.wordpress.org/test/2024/02/29/test-chat-summary-27-february-2024/)
+<br><br>
 <h3 align="left">My Works:</h3>
 
 - [Uttara Restaurant](https://uttararestaurant.com/)
