@@ -35,6 +35,9 @@
 <h3 align="left">My Contributions on WordPress:</h3>
 
 - [Test Team Meeting Recap Post](https://make.wordpress.org/test/2024/02/29/test-chat-summary-27-february-2024/)
+- [Training Team Meeting Recap 31 October](https://make.wordpress.org/training/2023/11/05/training-team-meeting-recap-31th-october-2023/)
+- [Training Team Meeting Recap 14 November](https://make.wordpress.org/training/2023/11/20/training-team-meeting-recap-14th-november-2023/)
+- [Training Team Meeting Recap 28 November](https://make.wordpress.org/training/2023/12/05/training-team-meeting-recap-28-november-2023/)
 <br><br>
 <h3 align="left">My Works:</h3>
 
