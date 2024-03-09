@@ -38,6 +38,7 @@
 - [Training Team Meeting Recap 31 October](https://make.wordpress.org/training/2023/11/05/training-team-meeting-recap-31th-october-2023/)
 - [Training Team Meeting Recap 14 November](https://make.wordpress.org/training/2023/11/20/training-team-meeting-recap-14th-november-2023/)
 - [Training Team Meeting Recap 28 November](https://make.wordpress.org/training/2023/12/05/training-team-meeting-recap-28-november-2023/)
+- [Community Team March Meeting Recap](https://make.wordpress.org/community/2024/03/09/community-team-march-meeting-recap/)
 <br><br>
 <h3 align="left">My Works:</h3>
 
