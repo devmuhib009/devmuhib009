@@ -31,6 +31,7 @@
 - [Training Team Faculty Program](https://make.wordpress.org/training/handbook/faculty-program/)
 - [Training Team Guide Program](https://make.wordpress.org/training/handbook/guide-program/#current-guides)
 - [WordPress Mentorship Cohort Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
+- [Mentorship Program Graduation Post](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 <br><br>
 <h3 align="left">My Contributions on WordPress:</h3>
 
