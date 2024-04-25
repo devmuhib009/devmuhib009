@@ -6,7 +6,7 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [DragWP](https://dragwp.com)
+- 🔭 I’m currently working on [BuzzGeek](https://buzzgeek.com/our-team)
 
 - 🌱 I’m currently learning **React, Vanilla JavaScript**
 
