@@ -33,6 +33,7 @@
 - [WordPress Mentorship Cohort Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 - [Mentorship Program Graduation Post](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 - [Contributor Day Training Table Lead (WordCamp Sylhet 2024)](https://sylhet.wordcamp.org/2024/contributor-day-table-leads/)
+- [Yoast Care Fund Recipient](https://yoast.com/community/care-fund/recipients/muhibul-haque/)
 <br><br>
 <h3 align="left">My Contributions on WordPress:</h3>
 
