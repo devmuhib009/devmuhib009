@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **Jack of all trades! SEO, Article Writing, Affiliate Marketing, Video Editing and Graphic Design.**
 <br><br>
-<h3 align="left">WordPress Core Contribution:</h3>
+<h3 align="left">WordPress Contribution:</h3>
 
 - [Training Team Faculty Program](https://make.wordpress.org/training/handbook/faculty-program/)
 - [Training Team Guide Program](https://make.wordpress.org/training/handbook/guide-program/#current-guides)
@@ -34,9 +34,6 @@
 - [Mentorship Program Graduation Post](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 - [Contributor Day Training Table Lead (WordCamp Sylhet 2024)](https://sylhet.wordcamp.org/2024/contributor-day-table-leads/)
 - [Yoast Care Fund Recipient](https://yoast.com/community/care-fund/recipients/muhibul-haque/)
-<br><br>
-<h3 align="left">My Contributions on WordPress:</h3>
-
 - [How to Test WordPress Beta Release?](https://learn.wordpress.org/tutorial/how-to-test-wordpress-beta-release/)
 - [Test Team Meeting Recap Post](https://make.wordpress.org/test/2024/02/29/test-chat-summary-27-february-2024/)
 - [Training Team Meeting Recap 31 October](https://make.wordpress.org/training/2023/11/05/training-team-meeting-recap-31th-october-2023/)
