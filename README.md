@@ -6,8 +6,6 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [BuzzGeek](https://buzzgeek.com/our-team)
-
 - 🌱 I’m currently learning **React, Vanilla JavaScript**
 
 - 👯 I’m contribute on [WordPress Block Theme](https://github.com/WordPress/twentytwentyfour)
