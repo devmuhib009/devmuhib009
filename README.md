@@ -26,12 +26,15 @@
 <br><br>
 <h3 align="left">WordPress Contribution:</h3>
 
+- [Training Team Reps 2025](https://make.wordpress.org/training/2024/11/08/meet-your-2025-training-team-representatives/)
 - [Training Team Faculty Program](https://make.wordpress.org/training/handbook/faculty-program/)
 - [Training Team Guide Program](https://make.wordpress.org/training/handbook/guide-program/#current-guides)
+- [WordPress Mentorship Graduation Q4](https://make.wordpress.org/community/2024/11/21/wordpress-contributor-mentorship-2024-q4-cohort-graduates/)
 - [WordPress Mentorship Cohort Program](https://make.wordpress.org/community/2024/02/16/contributor-mentorship-program-second-cohort-2024-q1/)
 - [Mentorship Program Graduation Post](https://make.wordpress.org/community/2024/04/08/wordpress-contributor-mentorship-2024-q1-cohort-graduates/)
 - [Contributor Day Training Table Lead (WordCamp Sylhet 2024)](https://sylhet.wordcamp.org/2024/contributor-day-table-leads/)
 - [Yoast Care Fund Recipient](https://yoast.com/community/care-fund/recipients/muhibul-haque/)
+- [Contributor Stories WordCamp Asia 2025](https://asia.wordcamp.org/2025/contributor-day/unveiling-contributor-stories-the-heart-of-wordpress/)
 - [How to Test WordPress Beta Release?](https://learn.wordpress.org/tutorial/how-to-test-wordpress-beta-release/)
 - [Test Team Meeting Recap Post](https://make.wordpress.org/test/2024/02/29/test-chat-summary-27-february-2024/)
 - [Training Team Meeting Recap 31 October](https://make.wordpress.org/training/2023/11/05/training-team-meeting-recap-31th-october-2023/)
