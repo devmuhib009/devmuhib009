@@ -45,13 +45,9 @@
 <br><br>
 <h3 align="left">My Works:</h3>
 
-- [Uttara Restaurant](https://uttararestaurant.com/)
-
-- [Pizza Kurier](https://pizzakurier24.de/)
-
-- [Kishoreganj Guide](https://kishoreganjguide.com/)
-- [Bot Tola Cyber Net](https://btcnbd.com/)
 - [Real Star Properties](http://realstarpl.com/)
+- [The Russian Voiceover](https://therussianvoiceover.com/))
+- [Deep Tribe](https://deeptribe.com/)
 - [Multi Freight](https://multifreight.net/)
 - [Swift Freight](https://swift-freight.com/)
 - [India Palace NYC](https://indiapalacenyc.com/)
